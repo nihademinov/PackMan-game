@@ -1,0 +1,5 @@
+﻿  pacMan.cpp
+C:\Users\User\Desktop\fbes2 C++\pacmanGame\pacmanGame\AllFunctions.h(37,30): warning C4309: '=': truncation of constant value
+C:\Users\User\Desktop\fbes2 C++\pacmanGame\pacmanGame\pacMan.cpp(15,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\Desktop\fbes2 C++\pacmanGame\pacmanGame\pacMan.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pacmanGame.vcxproj -> C:\Users\User\Desktop\fbes2 C++\pacmanGame\x64\Debug\pacmanGame.exe
